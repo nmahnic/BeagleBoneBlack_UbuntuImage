@@ -11,7 +11,7 @@ By default:
 
 ### Get prebuilt image:
 Check updates: https://rcn-ee.com/rootfs/ 
-Note:Remember not to use lastest release due eventual bugs on unstable version
+Note:Remember not to use latest release due eventual bugs on unstable version
 ```
 wget https://rcn-ee.com/rootfs/2020-03-12/elinux/ubuntu-18.04.4-console-armhf-2020-03-12.tar.xz
 ```
