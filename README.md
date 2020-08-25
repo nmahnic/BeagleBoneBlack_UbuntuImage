@@ -1,6 +1,8 @@
 # BeagleBoneBlack_UbuntuImage
 Describe step by step how to load a ubuntu image to Beaglebone Black
 
+This tutorial is a fork of [BeagleBoardUbuntu wiki](https://elinux.org/BeagleBoardUbuntu), more information about another board get there into.
+
 ## Ubuntu (18.04.4)
 By default:
 |username| password|
